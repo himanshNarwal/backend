@@ -1,3 +1,3 @@
 # Backend
 
-This is a backend project
+This is a backend project using javascript
