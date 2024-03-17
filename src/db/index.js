@@ -16,5 +16,3 @@ const connectDB = async () => {
 };
 
 export default connectDB;
-
-// --experimental-json-modules
